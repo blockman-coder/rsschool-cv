@@ -37,3 +37,16 @@ function count (str) {
   return chars;
 }
 ```
+
+## Education
+ * **School Programming Lessons:** [Юнный Программист](http://yun.net.ua/)
+ * **Courses:**
+   + [JavaScript for Beginners](https://stepik.org/course/2223)
+   + [Sololearn JavaScript Course](https://www.sololearn.com/learning/1024)
+   + [Sololearn C Course](https://www.sololearn.com/learning/1089)
+   + [Sololearn C++ Course](https://www.sololearn.com/learning/1051)
+   + [Sololearn Java Course](https://www.sololearn.com/learning/1068)
+   + [Sololearn Python Course](https://www.sololearn.com/learning/1073)
+
+## English
+**A2** (Epam test)
